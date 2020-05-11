@@ -6,4 +6,8 @@ echo "2ND COMMIT BY MASTER"
 
 echo "1st COMMIT BY dev1"
 
+
+echo "2ND COMMIT BY dev1
+
+
 ?>
