@@ -1,0 +1,5 @@
+<?php
+
+echo "HELLO THIS IS AUTOMATION USING GIT + JENKINS + DOCKER "
+
+?>
